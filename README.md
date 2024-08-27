@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile
 
-I'm a 3rd-year student pursuing a Bachelor of Science in Information Technology at Central Philippine University. I'm passionate about technology, music, and entertainment.
+I'm a 4th-year student pursuing a Bachelor of Science in Information Technology at Central Philippine University. I'm passionate about technology, music, and entertainment.
 
 ## Five Facts About Me
 
