@@ -16,6 +16,6 @@ Feel free to explore my repositories and projects. I'm always open to feedback a
 
 ### Connect with Me
 
-- **GitHub**: [github.com/ggkidea](https://github.com/ggkidea)
+- **GitHub**: [github.com/ggkidea](https://github.com/jericmark46)
 - **Personal Email**: [jericmark46@gmail.com](mailto:jericmark46@gmail.com)
 - **Facebook**: [fb.com/j3r1c-kr4m](https://fb.com/j3r1c-kr4m)
