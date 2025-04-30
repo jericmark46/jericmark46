@@ -42,6 +42,10 @@ I'm a 4th-year student pursuing a Bachelor of Science in Information Technology 
 
 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration. Let's connect and create something amazing together!
 
+
+"And whatever you do, do it heartily, as to the Lord and not to men."
+— Colossians 3:23 (NKJV)
+
 ### Connect with Me
 
 - **GitHub**: [github.com/ggkidea](https://github.com/jericmark46)
