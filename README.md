@@ -4,13 +4,41 @@
 
 I'm a 4th-year student pursuing a Bachelor of Science in Information Technology at Central Philippine University. I'm passionate about technology, music, and entertainment.
 
-## Five Facts About Me
+## Facts About Me
 
-1. 🎸 **Guitar Player**: I love playing the guitar, especially jamming with friends. Music is a great way to relax and express myself.
-2. 🎤 **Singing Enthusiast**: I enjoy singing and often find myself humming or singing along to my favorite tunes.
-3. 🎬 **Comedy Movie Buff**: I love watching comedy movies. They always bring a smile to my face and help me unwind.
-4. 🎮 **E-Sports Gamer**: I'm an avid E-sports gamer. I enjoy the competitive nature and the community that comes with it.
-5. 😆 **Single and Happy**: I have no girlfriend at the moment, but I'm enjoying life and having a good laugh about it!
+- 🛠️ **IT Maintenance and Network Technician (CCNA Completer)**  
+  Maintaining IT systems, resolving technical issues, and managing secure network infrastructure.
+
+- 🏫 **Work Student – Guidance Services Center, Central Philippine University**  
+  Assisted students and staff, supported guidance operations, and ensured organized service delivery.
+
+- 🧑‍🤝‍🧑 **Former President – Campus Bible Fellowship**  
+  Led faith-based initiatives, organized campus-wide events, and fostered spiritual growth in the community.
+
+- 🧑‍🏫 **Former President – Work Student Organization**  
+  Advocated for work students, led team efforts, and coordinated development programs.
+
+- 🌍 **Community Development Worker**  
+  Serving communities through outreach missions, volunteer work, and developmental programs since 2016.
+
+- 🤝 **Team Builder**  
+  Passionate about collaboration and leadership, building strong, mission-driven teams.
+
+---
+
+## 🎯 Interests & Hobbies
+
+- 🎸 **Guitar Player**  
+  Love jamming with friends—music is my outlet for creativity and relaxation.
+
+- 🎤 **Singing Enthusiast**  
+  Singing is a joy—I often find myself harmonizing with favorite songs.
+
+- 🎬 **Comedy Movie Buff**  
+  Nothing beats a good laugh—comedy films are my go-to stress reliever.
+
+- 🎮 **E-Sports Gamer**  
+  Competitive, strategic, and fun—E-sports is both a passion and a challenge I enjoy.
 
 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration. Let's connect and create something amazing together!
 
